@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabEquipmentApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4635936ed538c8710ddf57e52745ffdfe7460aef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc1dd74f1d2735f2cbd4d571faefb44d67041954")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabEquipmentApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabEquipmentApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
