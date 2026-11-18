@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|c:\\szerveroldali beadand\\labequipmentapi\\labequipmentapi\\contracts\\equipment\\createequipmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|solutionrelative:contracts\\equipment\\createequipmentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|c:\\szerveroldali beadand\\labequipmentapi\\labequipmentapi\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|solutionrelative:controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|c:\\szerveroldali beadand\\labequipmentapi\\labequipmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|c:\\szerveroldali beadand\\labequipmentapi\\labequipmentapi\\contracts\\equipment\\createequipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|solutionrelative:contracts\\equipment\\createequipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C9D437B-03FF-F4B8-00F4-9618BF0F38AF}|LabEquipmentApi.csproj|c:\\szerveroldali beadand\\labequipmentapi\\labequipmentapi\\labequipmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -39,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateEquipmentRequestValidator.cs",
+              "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Contracts\\Equipment\\CreateEquipmentRequestValidator.cs",
+              "RelativeDocumentMoniker": "Contracts\\Equipment\\CreateEquipmentRequestValidator.cs",
+              "ToolTip": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Contracts\\Equipment\\CreateEquipmentRequestValidator.cs",
+              "RelativeToolTip": "Contracts\\Equipment\\CreateEquipmentRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T13:28:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T07:54:02.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EquipmentController.cs",
               "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Controllers\\EquipmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\EquipmentController.cs",
               "ToolTip": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Controllers\\EquipmentController.cs",
               "RelativeToolTip": "Controllers\\EquipmentController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAYwJAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T13:04:01.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "CreateEquipmentRequest.cs",
+              "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Contracts\\Equipment\\CreateEquipmentRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Equipment\\CreateEquipmentRequest.cs",
+              "ToolTip": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Contracts\\Equipment\\CreateEquipmentRequest.cs",
+              "RelativeToolTip": "Contracts\\Equipment\\CreateEquipmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T13:27:41.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LabEquipmentApi.csproj",
               "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\LabEquipmentApi.csproj",
               "RelativeDocumentMoniker": "LabEquipmentApi.csproj",
@@ -63,20 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T07:54:02.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -88,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LabDbContext.cs",
               "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Data\\LabDbContext.cs",
               "RelativeDocumentMoniker": "Data\\LabDbContext.cs",
@@ -100,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Equipment.cs",
               "DocumentMoniker": "C:\\szerveroldali beadand\\LabEquipmentApi\\LabEquipmentApi\\Domain\\Equipment.cs",
               "RelativeDocumentMoniker": "Domain\\Equipment.cs",
